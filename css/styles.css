@@ -1,6 +1,10 @@
 * {
 	font-family: Verdana;
 }
+
+body {
+  background-color: #b3ffcc;
+}
 header.page-header {
 	box-shadow: 0px 0px 10px 10px #a4a475;
 	margin-top: -18px;
@@ -16,6 +20,10 @@ header.page-header {
     position: absolute;
 }
 
+.row {
+  margin-top: 70px;
+}
+
 /* index.html imgs */
 #wild1Img {
 	background: url(../img/wild1.jpg);
@@ -23,7 +31,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 235px;
   display: block;
   margin: 10px;
 }
@@ -34,7 +42,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -45,7 +53,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -56,7 +64,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -67,7 +75,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -78,7 +86,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -89,7 +97,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -100,7 +108,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -111,19 +119,19 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
 /* wild imgs */
 
-#meurope1Img {
+#mountain1Img {
   background: url(../img/montane1.jpg);
   background-repeat: no-repeat; 
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -134,7 +142,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -145,18 +153,18 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
 
-#meurope2Img {
+#mountain2Img {
   background: url(../img/montane2.jpg);
   background-repeat: no-repeat; 
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -167,7 +175,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -178,18 +186,18 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
 
-#meurope3Img {
+#mountain3Img {
   background: url(../img/montane3.jpg);
   background-repeat: no-repeat; 
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -200,7 +208,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -211,7 +219,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -224,7 +232,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -235,7 +243,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -246,7 +254,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -257,7 +265,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -268,7 +276,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -279,7 +287,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -290,7 +298,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -301,7 +309,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -312,7 +320,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -325,7 +333,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -336,7 +344,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -347,7 +355,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -358,7 +366,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -369,7 +377,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -380,7 +388,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -391,7 +399,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -402,7 +410,7 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
@@ -413,11 +421,19 @@ header.page-header {
   text-indent: -999em;
   border: 10px solid white;
   width: 320px;
-  height: 240px;
+  height: 233px;
   display: block;
   margin: 10px;
 }
 
+button.continue {
+  border-radius: 12px;
+  width: 78%;
+  height: 45px;
+  background-color: #009933;
+  position: absolute;
+  margin-top: -811px;
+}
 
 input[type="radio"] + label {
 	box-shadow: 2px 2px 6px 6px lightgray;
