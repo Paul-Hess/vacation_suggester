@@ -17,4 +17,24 @@ $(document).ready(function() {
 		return false;
 		event.preventDefault()	;
 	});
+
+	$('form#wildPlaces').submit(function(event){
+		var montane = $('.radio')[0].checked || $('.radio')[3].checked || $('.radio')[6].checked;
+		var desert = $('.radio')[1].checked || $('.radio')[4].checked || $('.radio')[7].checked;
+		var forest = $('.radio')[2].checked || $('.radio')[5].checked || $('.radio')[8].checked;
+
+		if (montane) {
+			location.href = "pages/montane.html"
+		} else if (desert) {
+			location.href = "pages/desert.html"
+		} else if (forest) {
+			location.href = "pages/forest.html"
+		} else {
+			alert("Please make a valid selection")
+			location.href = "pages/wild.html"
+			
+		}
+		return false;
+		event.preventDefault()	;
+	});
 });

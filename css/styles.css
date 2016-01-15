@@ -1,3 +1,6 @@
+* {
+	font-family: Verdana;
+}
 header.page-header {
 	box-shadow: 0px 0px 10px 10px #a4a475;
 	margin-top: -18px;
@@ -13,6 +16,7 @@ header.page-header {
     position: absolute;
 }
 
+/* index.html imgs */
 #wild1Img {
 	background: url(../img/wild1.jpg);
   background-repeat: no-repeat;	
@@ -21,7 +25,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -33,7 +36,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -45,7 +47,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -57,7 +58,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -69,7 +69,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -81,7 +80,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -93,7 +91,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -105,7 +102,6 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
   margin: 10px;
 }
 
@@ -117,7 +113,106 @@ header.page-header {
   width: 320px;
   height: 240px;
   display: block;
-  float: left;
+  margin: 10px;
+}
+/* wild imgs */
+
+#mountain1Img {
+  background: url(../img/montane1.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#desert1Img {
+  background: url(../img/desert.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#forest1Img {
+  background: url(../img/forest1.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#mountain2Img {
+  background: url(../img/montane2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#desert2Img {
+  background: url(../img/desert2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#forest2Img {
+  background: url(../img/forest2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#mountain3Img {
+  background: url(../img/montane3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#desert3Img {
+  background: url(../img/desert3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#forest3Img {
+  background: url(../img/forest3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
   margin: 10px;
 }
 
