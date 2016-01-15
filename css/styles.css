@@ -1,0 +1,43 @@
+header.page-header {
+	text-align: center;
+}
+
+.radio {
+	position: static;
+}
+#wild1Img {
+	background: url(../img/wild1.jpg);
+  background-repeat: no-repeat;	
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 800px;
+  height: 500px;
+  display: block;
+  float: left;
+  margin: 10px;
+}
+
+#beach1Img {
+	background: url(../img/beach1.jpg);
+  background-repeat: no-repeat;	
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 800px;
+  height: 500px;
+  display: block;
+  float: left;
+  margin: 10px;
+}
+
+#city1Img {
+	background: url(../img/city1.jpg);
+  background-repeat: no-repeat;	
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 800px;
+  height: 500px;
+  display: block;
+  float: left;
+  margin: 10px;
+}
+
