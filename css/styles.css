@@ -117,7 +117,7 @@ header.page-header {
 }
 /* wild imgs */
 
-#mountain1Img {
+#meurope1Img {
   background: url(../img/montane1.jpg);
   background-repeat: no-repeat; 
   text-indent: -999em;
@@ -150,7 +150,7 @@ header.page-header {
   margin: 10px;
 }
 
-#mountain2Img {
+#meurope2Img {
   background: url(../img/montane2.jpg);
   background-repeat: no-repeat; 
   text-indent: -999em;
@@ -183,7 +183,7 @@ header.page-header {
   margin: 10px;
 }
 
-#mountain3Img {
+#meurope3Img {
   background: url(../img/montane3.jpg);
   background-repeat: no-repeat; 
   text-indent: -999em;
@@ -215,6 +215,209 @@ header.page-header {
   display: block;
   margin: 10px;
 }
+
+/* city imgs */
+
+#europe1Img {
+  background: url(../img/europe1.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#asia1Img {
+  background: url(../img/asia1.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#brazil1Img {
+  background: url(../img/brazil1.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#europe2Img {
+  background: url(../img/europe2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#asia2Img {
+  background: url(../img/asia2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#brazil2Img {
+  background: url(../img/brazil2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#europe3Img {
+  background: url(../img/europe3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#asia3Img {
+  background: url(../img/asia3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#brazil3Img {
+  background: url(../img/brazil3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+/* beach imgs */
+
+#oregon1Img {
+  background: url(../img/oregon1.jpeg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#tropical1Img {
+  background: url(../img/tropical1.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#california1Img {
+  background: url(../img/cali1.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#oregon2Img {
+  background: url(../img/oregon2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#tropical2Img {
+  background: url(../img/tropical2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#california2Img {
+  background: url(../img/cali2.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#oregon3Img {
+  background: url(../img/oregon3.jpeg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#tropical3Img {
+  background: url(../img/tropical3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
+#california3Img {
+  background: url(../img/cali3.jpg);
+  background-repeat: no-repeat; 
+  text-indent: -999em;
+  border: 10px solid white;
+  width: 320px;
+  height: 240px;
+  display: block;
+  margin: 10px;
+}
+
 
 input[type="radio"] + label {
 	box-shadow: 2px 2px 6px 6px lightgray;
