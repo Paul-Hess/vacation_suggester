@@ -1,9 +1,44 @@
-<!DOCTYPE html>
+<h2><!DOCTYPE html>
 <html>
-<head>
-	<title>beach bummin'</title>
-</head>
-<body>
-	<p>ldkjflkasdjflksd</p>
-</body>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="../css/styles.css">
+		<script type="text/javascript" src="../js/jQuery-1.12.0.min.js"></script>
+		<script type="text/javascript" src="../js/scripts.js"></script>
+		<title>Vacation</title>
+	</head>
+	<body>
+		<header class="page-header"><h2>Visually make selections by clicking the image boxes below. The vacation selector will interpret your preferences and automatically return a short-list of the perfect destinations for you!</h2></header>
+		<div class="form-group">
+			<form method="post" id="wilds">
+				<div class="row">
+					<div class="col-md-4">
+						<input type="radio" id="mountain1" class="radio" name="wilds" value="mountain" >
+						<label for="mountain1" id="mountain1Img"></label>
+						<input type="radio" id="desert1" class="radio" name="wilds" value="desert">
+						<label for="desert1" id="desert1Img"></label>
+						<input type="radio" id="forest1" class="radio" name="wilds" value="forest">
+						<label for="forest1" id="forest1Img"></label>
+					</div>
+					<div class="col-md-4">
+						<input type="radio" id="forest2" class="radio" name="wilds" value="forest" >
+						<label for="forest2" id="forest2Img"></label>
+						<input type="radio" id="desert2" class="radio" name="wilds" value="desert">
+						<label for="desert2" id="desert2Img"></label>
+						<input type="radio" id="mountain2" class="radio" name="wilds" value="mountain">
+						<label for="mountain2" id="mountain2Img"></label>
+					</div>	
+					<div class="col-md-4">
+						<input type="radio" id="mountain3" class="radio" name="wilds" value="mountain" >
+						<label for="mountain3" id="mountain3Img"></label>
+						<input type="radio" id="forest3" class="radio" name="wilds" value="forest">
+						<label for="forest3" id="forest3Img"></label>
+						<input type="radio" id="desert3" class="radio" name="wilds" value="desert">
+						<label for="desert3" id="desert3Img"></label>
+					</div>
+				</div>
+				<button type="submit">Continue</button>
+			</form>
+		</div>
+	</body>
 </html>
