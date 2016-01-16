@@ -1,3 +1,5 @@
+
+/* universal  styles */
 * {
 	font-family: Verdana;
 }
@@ -5,6 +7,8 @@
 body {
   background-color: #b3ffcc;
 }
+
+/* the header */
 header.page-header {
 	box-shadow: 0px 0px 10px 10px #a4a475;
 	margin-top: -18px;
@@ -15,6 +19,7 @@ header.page-header {
 	text-align: center;
 }
 
+/* forms and their wrappers */
 .radio {
     opacity: 0;
     position: absolute;
@@ -22,6 +27,91 @@ header.page-header {
 
 .row {
   margin-top: 70px;
+}
+
+/* destination pages */
+
+.montane.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/mount.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.deserted.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/sand.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.forested.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/forest.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.europa.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/paris.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.asiatic.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/asia.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.brasilia.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/rio.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.oregonian.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/coast.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tropic.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/tropic.jpg);
+  background-repeat: no-repeat;
+  }
+
+  .californ.container-fluid {
+  margin-top: -20px;
+  background-image: url(../img/sun.jpeg);
+  background-repeat: no-repeat;
+  }
+
+
+.option1,.option2,.option3 {
+  /*display: none;*/
+  height: 200px;
+  font-size: 5em;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;  
+}
+
+button.btn-lg {
+  margin-top: 10px;
+}
+
+a {
+  color: black;
+}
+
+a#white {
+  color: white;
 }
 
 /* index.html imgs */
@@ -426,6 +516,8 @@ header.page-header {
   margin: 10px;
 }
 
+
+/* buttons and radios */
 button.continue {
   border-radius: 12px;
   width: 78%;

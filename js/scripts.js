@@ -78,4 +78,15 @@ $(document).ready(function() {
 		event.preventDefault()	;
 	});
 
+	$('button.opt1').click(function(){
+		$('div.option1').toggle();
+	});
+
+	$('button.opt2').click(function(){
+		$('div.option2').toggle();
+	});
+
+	$('button.opt3').click(function(){
+		$('div.option2').toggle();
+	});
 });
