@@ -87,6 +87,6 @@ $(document).ready(function() {
 	});
 
 	$('button.opt3').click(function(){
-		$('div.option2').toggle();
+		$('div.option3').toggle();
 	});
 });

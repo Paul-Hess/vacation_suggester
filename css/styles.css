@@ -84,23 +84,25 @@ header.page-header {
   margin-top: -20px;
   background-image: url(../img/tropic.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
   }
 
   .californ.container-fluid {
   margin-top: -20px;
-  background-image: url(../img/sun.jpeg);
+  background-image: url(../img/sun.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
   }
 
 
 .option1,.option2,.option3 {
-  /*display: none;*/
+  display: none;
   height: 200px;
   font-size: 5em;
   font-weight: bold;
   text-align: center;
   padding: 10px;  
-}
+  }
 
 button.btn-lg {
   margin-top: 10px;
